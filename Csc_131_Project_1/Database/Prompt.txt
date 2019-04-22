@@ -1,0 +1,4 @@
+If you would you like to add a new item press 1.
+If you would like to report an item as missing press 2.
+If you would like to see if any of your items were found press 3.
+If you would like to log out press 0.
